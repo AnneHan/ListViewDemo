@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="detail_tab">明细</string>
+    <string name="category_report_tab">类别报表</string>
+</resources>
